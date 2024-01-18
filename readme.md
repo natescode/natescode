@@ -100,7 +100,7 @@
 
 ## Top Open Source -
 [![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=natescode&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/natescode/itasks)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=natescode&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/natescode/urfolio)
+[![Silicon](https://github-readme-stats.vercel.app/api/pin/?username=natescode&repo=Silicon&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/natescode/silicon)
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=natescode&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/natescode/web-projects)
 [![NatesCode Readme](https://github-readme-stats.vercel.app/api/pin/?username=natescode&repo=natescode&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/natescode/natescode)
 
