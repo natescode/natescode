@@ -16,9 +16,6 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=natescode&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
-
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
@@ -38,15 +35,15 @@
 </p>
 
 <p align="center">
- <a href="https://alsiam.com" target="blank">
+ <a href="https://natescode.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
  </a>
  <a href="https://linkedin.com/in/natescode" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
- <!-- <a href="https://dev.to/alsiam" target="_blank">
+ <a href="https://dev.to/natescode" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
- </a> -->
+ </a> 
  <a href="https://twitter.com/natescode" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
@@ -63,7 +60,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/natescode-ai-profile.webp" alt="Coding gif" />
+ <img align="right" width="350" src="https://raw.githubusercontent.com/natescode/natescode/main/assets/nate-ai-profile.webp" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy software engineering and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
