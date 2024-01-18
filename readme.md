@@ -60,7 +60,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="https://raw.githubusercontent.com/natescode/natescode/main/assets/nate-ai-profile.webp" alt="Coding profile pic" />
+ <img align="right" width="350" src="https://raw.githubusercontent.com/natescode/natescode/main/assets/nate-cartoon-profile.webp" alt="Coding profile pic" />
   
  ✌️ &emsp; Enjoy software engineering and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
