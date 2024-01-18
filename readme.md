@@ -18,7 +18,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
+        <samp>&gt; Hello, World!, I am
                 <b><a target="_blank" href="https://natescode.com">NatesCode.com</a></b>
         </samp>
 </h3>
@@ -64,7 +64,7 @@
   
  ✌️ &emsp; Enjoy software engineering and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: natescode.dev@gmail.com<br/><br/>
+ 📧 &emsp; Reach me anytime: nates@natescode.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/natescode/natescode/issues)
 
 </p>
