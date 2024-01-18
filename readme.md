@@ -28,7 +28,7 @@
   <samp>
     <a href="https://www.google.com/search?q=NatesCode">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application developer from <b>USA</b> 」
+    「 I am a Lead Software Engineer from <b>USA</b> 」
     <br>
     <br>
   </samp>
